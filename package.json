@@ -1,0 +1,27 @@
+{
+  "name": "magtifun",
+  "version": "0.0.0",
+  "description": "send sms from magtifun.ge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Safareli/magtifun.git"
+  },
+  "keywords": [
+    "sms",
+    "send",
+    "magtifun"
+  ],
+  "author": "Irakli Safareli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Safareli/magtifun/issues"
+  },
+  "homepage": "https://github.com/Safareli/magtifun",
+  "dependencies": {
+    "node-localstorage": "~0.3.4"
+  }
+}
