@@ -2,7 +2,10 @@
   "name": "magtifun",
   "version": "0.0.0",
   "description": "send sms from magtifun.ge",
-  "main": "index.js",
+  "main": "./lib/magtifun.js",
+  "bin":{
+      "magtifun": "./bin/magtifun"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
