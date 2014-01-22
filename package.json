@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "description": "send sms from magtifun.ge",
   "main": "./lib/magtifun.js",
-  "bin":{
-      "magtifun": "./bin/magtifun"
+  "bin": {
+    "magtifun": "./bin/magtifun"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/Safareli/magtifun",
   "dependencies": {
-    "node-localstorage": "~0.3.4"
+    "node-localstorage": "~0.3.4",
+    "q": "~1.0.0"
   }
 }
