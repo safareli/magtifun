@@ -1,6 +1,6 @@
 {
   "name": "magtifun",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "send sms from magtifun.ge",
   "main": "./lib/magtifun.js",
   "bin": {
