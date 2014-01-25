@@ -26,6 +26,7 @@
   "homepage": "https://github.com/Safareli/magtifun",
   "dependencies": {
     "node-localstorage": "~0.3.4",
-    "q": "~1.0.0"
+    "q": "~1.0.0",
+    "superagent": "~0.16.0"
   }
 }
